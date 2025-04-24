@@ -27,7 +27,7 @@ export const categories = [
           "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
       },
       views: 222536,
-      postedAt: new Date("2023-08-29"),
+      postedAt: new Date("2024-08-29"),
       duration: 938,
       thumbnailUrl: "https://i.ytimg.com/vi/B4Y9Ed4lLAI/maxresdefault.jpg",
       videoUrl:
@@ -59,7 +59,7 @@ export const categories = [
           "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
       },
       views: 1232300,
-      postedAt: new Date("2023-10-05"),
+      postedAt: new Date("2024-10-05"),
       duration: 120,
       thumbnailUrl: "https://i.ytimg.com/vi/eYPyIq5Y3Rk/maxresdefault.jpg",
       videoUrl:
